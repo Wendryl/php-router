@@ -5,7 +5,7 @@ A simple PHP router build following John O. Paul's tutorial on Medium.
 ## :pencil: Requirements
 You'll need PHP 5 or above to run this projects. It is necessary to have php-cli also, to run a php server in the project's folder;
 
-## :gears: Installation and Testing
+## :wrench: Installation and Testing
 ```bash
 git clone https://github.com/Wendryl/php-router.git
 cd php-router
