@@ -9,5 +9,5 @@ You'll need PHP 5 or above to run this projects. It is necessary to have php-cli
 ```bash
 git clone https://github.com/Wendryl/php-router.git
 cd php-router
-php -S localhost/8000
+php -S localhost:8000
 ```
